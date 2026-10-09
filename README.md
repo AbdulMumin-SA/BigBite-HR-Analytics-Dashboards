@@ -2,7 +2,9 @@
 
 An interactive Power BI dashboard that turns 161 employee records into a clear picture of workforce makeup, pay, age structure, and unused leave.
 
-![BigBite HR Analytics Dashboard](images/overview-dashboard.png)
+<img width="973" height="548" alt="Screenshot 2026-09-28 190054" src="https://github.com/user-attachments/assets/74a6d2b1-3dac-48a2-9d5a-211f0c63549a" />
+<img width="973" height="536" alt="Screenshot 2026-09-28 190150" src="https://github.com/user-attachments/assets/5855b0f4-662a-4cac-aa8b-7f81983c536f" />
+
 
 ## TABLE OF CONTENTS
 
