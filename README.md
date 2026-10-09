@@ -46,7 +46,7 @@ bigbite-hr-analytics/
 
 ## Data Source
 
-The data is a public sample HR dataset for BigBite. [Add dataset name and link here]
+The data is a public sample HR dataset for BigBite. 
 
 The workbook `hr-data.xlsx` holds one sheet with 161 rows and 9 columns. Join dates run from April 2017 to June 2023. All employee names are fictional.
 
