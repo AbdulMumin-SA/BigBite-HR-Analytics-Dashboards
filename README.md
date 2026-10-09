@@ -2,9 +2,6 @@
 
 An interactive Power BI dashboard that turns 161 employee records into a clear picture of workforce makeup, pay, age structure, and unused leave.
 
-<img width="973" height="548" alt="Screenshot 2026-09-28 190054" src="https://github.com/user-attachments/assets/74a6d2b1-3dac-48a2-9d5a-211f0c63549a" />
-<img width="973" height="536" alt="Screenshot 2026-09-28 190150" src="https://github.com/user-attachments/assets/5855b0f4-662a-4cac-aa8b-7f81983c536f" />
-
 
 ## TABLE OF CONTENTS
 
@@ -50,7 +47,7 @@ bigbite-hr-analytics/
 
 The data is a public sample HR dataset for BigBite. 
 
-The workbook `hr-data.xlsx` holds one sheet with 161 rows and 9 columns. Join dates run from April 2017 to June 2023. All employee names are fictional.
+The workbook `hr-data.xlsx` holds one sheet with 161 rows and 9 columns. Join dates run from April 2017 to June 2023. 
 
 | Column | Description | Type |
 |---|---|---|
@@ -126,6 +123,9 @@ The page reads left to right. KPI cards sit in a rail on the left. Composition v
 | Age Distribution histogram | Count of staff by age band | Shows the shape of the age structure, including the older tail |
 | Qualification vs Salary scatter | Each employee as a dot, colored by education level | Shows the full spread of pay and how much levels overlap |
 | Age Distribution by Gender | The same histogram split by female and male | Checks whether the age pattern differs between genders |
+
+<img width="973" height="548" alt="Screenshot 2026-09-28 190054" src="https://github.com/user-attachments/assets/74a6d2b1-3dac-48a2-9d5a-211f0c63549a" />
+<img width="973" height="536" alt="Screenshot 2026-09-28 190150" src="https://github.com/user-attachments/assets/5855b0f4-662a-4cac-aa8b-7f81983c536f" />
 
 ## Insights
 
